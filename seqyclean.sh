@@ -29,6 +29,8 @@ cat accession_list.tmp | while read line; do
   mv $line.2.fastq ~/Cracas_viroma/raw_done
   mv *PE*.fastq ~/Cracas_viroma/seqyclean_done
   mv *SE*.fastq ~/Cracas_viroma/seqyclean_done
+  rm $line.1.fastq
+  rm $line.2.fastq
 done
 
 
