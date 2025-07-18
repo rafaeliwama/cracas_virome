@@ -15,7 +15,7 @@ conda activate sortmerna
 
 # make a list of files pairs - for paired end transcriptomes
 
-for i in *.fastq;do echo $i| cut -d'.' -f1 >> temp1.tmp; done
+for i in *.fastq;do echo $i| cut -d'_' -f1 >> temp1.tmp; done
 
 cat temp1.tmp | sort | uniq > accession_list.tmp
 
