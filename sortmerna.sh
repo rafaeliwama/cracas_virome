@@ -23,6 +23,6 @@ cat temp1.tmp | sort | uniq > accession_list.tmp
 
 # run sortmerna for paired ended transcriptomes
 
-cat accession_list.tmp | while read line; do sortmerna -ref ~/databases/sortmerna_db/smr_v4.3_default_db.fasta -reads "${line}_PE1.fastq" -reads "${line}_PE2.fastq" -a 16 -other $line -out2 -fastx -workdir ~/Cracas_viroma/seqyclean_done/sort_wd; mv ~/Cracas_viroma/seqyclean_done/sort_wd/out/"${line}_fwd.fa" ~/Cracas_viroma/seqyclean_done/done/; mv ~/Cracas_viroma/seqyclean_done/sort_wd/out/"${line}_fwd.fa" ~/Cracas_viroma/seqyclean_done/done/;  rm -rf ~/Cracas_viroma/seqyclean_done/sort_wd/*; done
+cat accession_list.tmp | while read line; do sortmerna -ref ~/databases/sortmerna_db/smr_v4.3_default_db.fasta -reads "${line}_PE1.fastq" -reads "${line}_PE2.fastq" -a 16 -other $line -out2 -fastx -workdir ~/Cracas_viroma/seqyclean_done/sort_wd; mv ~/Cracas_viroma/seqyclean_done/sort_wd/out/"${line}_fwd.fa" ~/Cracas_viroma/seqyclean_done/done/; mv ~/Cracas_viroma/seqyclean_done/sort_wd/out/"${line}_fwd.fa" ~/Cracas_viroma/seqyclean_done/done/; done
 
 rm *.tmp
