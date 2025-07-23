@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #SBATCH --time=2-00:00:00
-#SBATCH --job-name=sortmerna
+#SBATCH --job-name=kaiju
 #SBATCH -N 1
 #SBATCH -n 16
 #SBATCH --mem=15gb
