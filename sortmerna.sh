@@ -28,3 +28,5 @@ cat accession_list.tmp | while read line; do sortmerna -ref ~/databases/sortmern
 rm *.tmp
 
 mv s_done/*.fq ~/Cracas_viroma/sortmerna_done/
+
+rm *.fastq
