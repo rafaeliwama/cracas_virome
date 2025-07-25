@@ -1,6 +1,5 @@
 #!/bin/sh
-
-conda activate virome_script_env
+# requirements in paths: sra-tools, seqyclean, sortmerna, BBmap, kaiju
 
 mkdir wd_dir
 cd wd_dir
