@@ -3,7 +3,7 @@
 
 A=$(pwd)
 
-cat ../$1 | while read line; do
+cat $1 | while read line; do
     mkdir wd_dir
     cd wd_dir
     mkdir srtRNA_wd_tmp
