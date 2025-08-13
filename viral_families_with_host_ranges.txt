@@ -1,0 +1,231 @@
+Vfamily	PROTISTS	PROKARYOTES	INVERTEBRATES	VERTEBRATES	PLANTS	FUNGI	VIROPHAGE
+Artiviridae							
+Retroviridae	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Streptococcaceae							
+Steigviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Iridoviridae	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+Nimaviridae	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Arenbergviridae							
+Druskaviridae							
+Pootjesviridae							
+Hepadnaviridae	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Papillomaviridae	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Polydnaviriformidae	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Nairoviridae	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+Tombusviridae	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Vilmaviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Orthoherpesviridae							
+Aliceevansviridae							
+Burtonviroviridae							
+Orpheoviridae							
+Phycodnaviridae	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Ackermannviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Zierdtviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Herelleviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Ahmunviridae							
+Allomimiviridae							
+Caliciviridae	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Picornaviridae	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+Metaviridae	1.0	0.0	1.0	1.0	1.0	1.0	0.0
+Adenoviridae	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Marnaviridae	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Mimiviridae	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Ascoviridae	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Cedratviridae							
+Baculoviridae	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Alloherpesviridae	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Malacoherpesviridae	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Tobaniviridae	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Drexlerviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Microviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Schitoviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Casjensviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Autographiviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Potyviridae	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Kyanoviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Demerecviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Parvoviridae	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+Bicaudaviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Polyomaviridae	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+Closteroviridae	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Straboviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Duneviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Spinareoviridae	0.0	0.0	1.0	1.0	1.0	1.0	0.0
+Geminiviridae	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+Circoviridae	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Marseilleviridae	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Flaviviridae	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+Tymoviridae	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Schizomimiviridae							
+Intestiviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Hytrosaviridae	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Stanwilliamsviridae							
+Fiersviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Peduoviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Medioniviridae							
+Asfarviridae	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+Mesyanzhinovviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Guelinviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Totiviridae	1.0	0.0	0.0	0.0	0.0	1.0	0.0
+							
+Coronaviridae	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Rhabdoviridae	0.0	0.0	1.0	1.0	1.0	0.0	0.0
+Nudiviridae	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Anelloviridae	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Poxviridae	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+Caulimoviridae	0.0	0.0	1.0	0.0	1.0	0.0	0.0
+Alphaflexiviridae	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+Steitzviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Betaflexiviridae	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+Chuviridae	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Bromoviridae	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Peribunyaviridae	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+Solemoviridae	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Paramyxoviridae	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Lebotiviridae							
+Mitoviridae	1.0	0.0	1.0	1.0	1.0	1.0	0.0
+Cystoviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Zobellviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Matonaviridae	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Tulasviridae							
+Chaseviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Filamentoviridae							
+Lipothrixviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Geplanaviridae							
+Ekchuahviridae							
+Dicistroviridae	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Hepeviridae	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Kitaviridae	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Nanghoshaviridae							
+Polymycoviridae							
+Winoviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Fusagraviridae							
+Phenuiviridae	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+Pleolipoviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Fusariviridae	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+Artoviridae	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Pervagoviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Arteriviridae	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Grimontviridae							
+Togaviridae	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+Hypoviridae	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+Botourmiaviridae	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+Atkinsviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Pachyviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Anaerodiviridae							
+Gresnaviridae							
+Inoviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Forsetiviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Sphaerolipoviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Hadakaviridae							
+Matshushitaviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Portogloboviridae							
+Qinviridae	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Bornaviridae	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Globuloviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Filoviridae	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Endornaviridae	1.0	0.0	0.0	0.0	1.0	1.0	0.0
+Turriviridae							
+Plectroviridae							
+Polycipiviridae	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Tristromaviridae							
+Naomviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Anicreviridae							
+Kleczkowskaviridae							
+Blumeviridae							
+Hantaviridae	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Virgaviridae	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Berryhillviridae							
+Staphylococcaceae							
+Iflaviridae	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Secoviridae	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Sedoreoviridae	0.0	0.0	1.0	1.0	1.0	0.0	0.0
+Suoliviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Hodgkinviridae							
+Adamaviridae							
+Vertoviridae							
+Corticoviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Chrysoviridae	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+Astroviridae	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Molycolviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Assiduviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Arenaviridae	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Rudiviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Tosoviridae							
+Halomagnusviridae							
+Adintoviridae	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Tectiviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Hafunaviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Bacilladnaviridae	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Itzamnaviridae							
+Picobirnaviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Autonotataviridae							
+Roniviridae							
+Ahpuchviridae							
+Yadokariviridae							
+Genomoviridae	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+Deltaflexiviridae	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+Aoguangviridae							
+Solspiviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Fuselloviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Alphasatellitidae							
+Paulinoviridae							
+Aliusviridae							
+Orthomyxoviridae	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Soleiviridae							
+Xinmoviridae	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Inseviridae							
+Yaraviridae							
+Muridae							
+Graaviviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Mesoniviridae	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Pseudototiviridae							
+Amalgaviridae	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+Nenyaviridae							
+Phypoliviridae							
+Euroniviridae							
+Sinhaliviridae							
+Pneumoviridae	0.0	0.0	0.0	1.0	0.0	0.0	0.0
+Orlajensenviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Salasmaviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Mymonaviridae	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+Nodaviridae	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+Mononiviridae	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Birnaviridae	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+Haloferuviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Gammaflexiviridae	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+Fimoviridae	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Lavidaviridae	0.0	0.0	0.0	0.0	0.0	0.0	1.0
+Clavaviridae							
+Lispiviridae	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Nanoviridae	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Smacoviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+Lactobacillaceae							
+Permutotetraviridae	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Vilyaviridae	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+Nyamiviridae	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+Methanobacteriaceae							
+Saparoviridae							
+Benyviridae	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Suolaviridae							
+Olifoviridae							
+Nanhypoviridae							
+Mahapunaviridae							
+Trautnerviridae							
+Simuloviridae							
+Bidnaviridae	0.0	0.0	1.0	0.0	0.0	0.0	0.0
+Kolmioviridae	0.0	0.0	1.0	1.0	0.0	0.0	0.0
+Shortaselviridae							
+Alternaviridae	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+Alvernaviridae							
+Madisaviridae							
+Partitiviridae	1.0	0.0	0.0	0.0	1.0	1.0	0.0
+Cremegaviridae							
+Tospoviridae	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Megabirnaviridae	0.0	0.0	0.0	0.0	0.0	1.0	0.0
+Crevaviridae							
+Ungulaviridae							
+Mayoviridae	0.0	0.0	0.0	0.0	1.0	0.0	0.0
+Aspiviridae							
+Chaacviridae							
+Rountreeviridae	0.0	1.0	0.0	0.0	0.0	0.0	0.0
