@@ -1,0 +1,5 @@
+Install packages:
+sra-tools 3.2.1, seqyclean 1.10.09, sortmerna 4.3.7, BBmap 39.33, kaiju 1.10.1
+
+command:
+./GetVirome.sh Accession_list.txt
