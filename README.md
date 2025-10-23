@@ -55,4 +55,11 @@ Taxon names were added with the following command
 kaiju-addTaxonNames -t nodes.dmp -n names.dmp -i kaiju.out -o kaiju.names.out -r superkingdom,phylum,class,order,family,genus,species
 ```
 
-Kaiju files were 
+Kaiju files were converted to csv files to be read into dataframes by pandas on python. Linnea rank used: Genus
+
+
+```
+python3 KaijuToDf.py nodes.dmp names.dmp NCBI_runinfo.txt genus
+```
+
+
