@@ -55,4 +55,4 @@ Taxon names were added with the following command
 kaiju-addTaxonNames -t nodes.dmp -n names.dmp -i kaiju.out -o kaiju.names.out -r superkingdom,phylum,class,order,family,genus,species
 ```
 
-
+Kaiju files were 
